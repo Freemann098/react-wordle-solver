@@ -1,0 +1,21 @@
+.word-solver-area {
+    background-color: #1d2025;
+    border-radius: 5%;
+    padding: 20px;
+}
+
+.word-list {
+    max-height: 230px;
+    min-height: 250px;
+    overflow: auto;
+}
+
+button {
+    padding: 15px 32px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: #3f8194;
+    text-decoration: none;
+    cursor: pointer;
+}

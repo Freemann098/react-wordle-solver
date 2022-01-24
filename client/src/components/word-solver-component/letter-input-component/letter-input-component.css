@@ -1,0 +1,19 @@
+.other-input {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: x-large;
+    padding: 10px;
+}
+
+.correct-input {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: x-large;
+    padding: 15px;
+    width: 30px;
+}
+
+.letter-input {
+    display: inline;
+    padding: 5px;
+}
