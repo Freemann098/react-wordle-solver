@@ -1,6 +1,6 @@
 # React Wordle Solver
 
-Simple 5-letter [Wordle](https://www.powerlanguage.co.uk/wordle/) Solver built in [ReactJS](https://reactjs.org/). Word search API built using [Node.js](https://nodejs.org/en/download/).
+Simple 5-letter [Wordle](https://www.powerlanguage.co.uk/wordle/) Solver built in [ReactJS](https://reactjs.org/). Word search API built using [Node.js](https://nodejs.org/en/download/). Live build can be found [here](https://reactwordlesolver.netlify.app/)
 
 ## Installing
 
