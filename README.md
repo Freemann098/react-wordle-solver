@@ -51,7 +51,7 @@ Once the node app is running, you will need to invite the bot to your Discord se
 ## Authors
 
   - **Chase Smith** -
-    [GitHub](https://github.com/Freemann098)
+    [GitHub](https://github.com/chasersmith)
 
 ## License
 
