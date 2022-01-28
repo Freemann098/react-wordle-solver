@@ -10,7 +10,7 @@ In the command line:
 
 ```bash
 # Clone repository
-$ git clone https://github.com/Freemann098/react-wordle-solver
+$ git clone https://github.com/chasersmith/react-wordle-solver
 
 # Navigate to the repository directory
 $ cd react-wordle-solver
