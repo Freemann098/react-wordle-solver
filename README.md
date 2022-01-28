@@ -39,10 +39,6 @@ $ cd client
 $ npm start
 ```
 
-## Usage
-
-Once the node app is running, you will need to invite the bot to your Discord server using the following link, replace `client_id` with your bot's client ID.
-
 ## Built With
 
   - [React](https://reactjs.org/)
